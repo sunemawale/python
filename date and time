@@ -1,0 +1,24 @@
+# import datetime
+
+# t=datetime.datetime.now()
+# time=t.hour
+# if time <=12:
+#  print("it is morning")
+# elif time<=17:
+#  print("it is afternoon")
+# elif time<=20:
+#  print("it is evening")
+# else:
+#  print("goodnight")
+
+
+# a=int(input("enter any age :"))
+# if a<=18:
+#     print("u cant have driving license")
+# elif a>=60:
+#     print("u ")
+    
+# else:
+    
+#     print("u can have driving licence")
+

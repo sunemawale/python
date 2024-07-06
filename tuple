@@ -1,0 +1,86 @@
+# t=()
+# print(type(t))
+
+# t=(3,)
+# print(type(t))
+
+# t=(3,"coding",5,"true",10.5)
+# print(len(t))
+
+# t=(2,3,5,6)
+# print(sum(t))
+
+# a tuple is a collection which is order and unchangabe.dublicate value are not allowed
+
+# t=(2,2.5,"ram","true",5)
+# t=()
+# print(type(t))
+
+# t=(2,5,10,12,12,8)
+# # print (max(t))
+# # print (min(t))
+# # print (len(t))
+# # print (sum(t))
+# x=t.count(8)
+# print(x)
+# print(t[-4:-2])
+# a=t.index(10)
+# print(a)
+# a=list(t)
+# a.append(2)
+# print(a)
+# fruit=("apple","banana","kiwi","chery")
+# x="apple"
+# if x in fruit:
+#     print("there is apple in tuple")
+# else:
+#     print("there is no apple in tuple")
+# t=(2,5,10,12,12,8)
+# fruit=("apple","banana","kiwi")
+# l=list(t)
+# l.remove(5)
+# print(l)
+
+# while i <len(t):
+#     print(t[i])
+#     i=i+1
+# a=t+fruit
+# b=list(a)
+# b.append(b)
+# print(b)
+
+# t=(2,4,8)
+# mul=t*3
+# # for i in range(3):
+# print(mul)
+
+# week=("sunday","monday","tuesday","wednesday","thusday","friday","saturday")
+# a=(input("enter any week :"))
+# b=("monday","tuesday","wednesday","thusday","friday")
+# if a == "saturday":
+#     print("it is holiday")
+# elif a=="sunday":
+#     print("it is  holiday")
+# elif b==
+#     print("it is not holiday")
+
+# num1=int(input("enter first number :"))
+# operator=(input("enter operator(+,-,*,/) :"))
+# num2=int(input("enter second number :"))
+# if operator=='+':
+#     print(num1+num2)
+# elif operator=='-':
+#     print(num1-num2)
+# elif operator=="*":
+#     print(num1*num2)
+# elif operator=="/":
+#     print(num1/num2)
+# else:
+#     print("enter correct number")
+
+# t=("p","y","t","h","o","n")
+# a=''.join (t)
+# print(a)
+
+
+
